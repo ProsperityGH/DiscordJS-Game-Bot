@@ -1,0 +1,38 @@
+{
+  "name": "discord.js-project",
+  "version": "1.0.0",
+  "description": "school project",
+  "main": "main.js",
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "form-data": "^4.0.0",
+    "mime-db": "^1.51.0",
+    "mime-types": "^2.1.34",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.7",
+    "tr46": "^0.0.3",
+    "ts-mixer": "^6.0.0",
+    "tslib": "^2.3.1",
+    "webidl-conversions": "^3.0.1",
+    "whatwg-url": "^5.0.0",
+    "ws": "^8.5.0",
+    "zod": "^3.11.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProsperityGH/Discord.TS-Project.git"
+  },
+  "author": "ProsperityGH",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ProsperityGH/Discord.TS-Project/issues"
+  },
+  "homepage": "https://github.com/ProsperityGH/Discord.TS-Project#readme"
+}
