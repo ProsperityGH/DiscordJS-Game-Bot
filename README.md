@@ -1,2 +1,2 @@
 # Discord.JS-Project
-Discord Bot School Project
+Discord Bot Project
